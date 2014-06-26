@@ -1,11 +1,7 @@
-.rspec
-.*.sw[op]
+pkg/
+Gemfile.lock
+vendor/
+spec/fixtures/
 .vagrant/
 .bundle/
-Gemfile.lock
-Gemfile.local
-pkg/
-log/
-#IntelliJ
-*.iml
-.idea
+coverage/
